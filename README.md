@@ -178,8 +178,8 @@ backend
 ## Clone the Repository
 
 ```
-git clone https://github.com/AnanyaRahaman/tutor-connect-platform.git
-cd tutor-connect-platform
+git clone https://github.com/AnanyaRahaman/tutor-connect-AI-Driven-Tutor-Matching-Platform.git
+cd tutor-connect-AI-Driven-Tutor-Matching-Platform
 ```
 
 ---
